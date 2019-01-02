@@ -1,0 +1,32 @@
+h1{
+	color: red;
+	font-family: Helvetica;
+	letter-spacing: 5px;
+	font-size: 70px;
+	margin-left: 12px;
+
+}
+h2{
+	color: indigo;
+	text-decoration: underline;
+	font-family: Maven Pro, sans-serif;
+	display: inline;
+
+}
+img{
+	padding-left: 1px;
+	height: 250px;
+	
+}
+html{
+	margin-left: 12px;
+}
+body{
+	background-color: #;
+}
+#one{
+	text-decoration: underline;
+}
+h3{
+	font-family: Maven Pro, sans-serif;
+}
